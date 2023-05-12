@@ -4,6 +4,7 @@ author: default
 permalink: /
 ---
 
+ああああああああ
 
 <img src="https://act-kithub.github.io/GHPages_WebSite/assets/images/logo-150.png" style="width: 300px;height:auto;">
 
